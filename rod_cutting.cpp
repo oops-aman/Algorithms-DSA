@@ -34,4 +34,5 @@ int main() {
     }
     rod_cut(price, n);
     return 0;
+    
 }
